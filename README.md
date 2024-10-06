@@ -1,5 +1,10 @@
 # setting_json-user_snippet
 
+# install
+
+node, npm
+in vs code: eslint, prettier - code formatter, live server, path auto complete, auto rename tag
+
 # vs editor setting json: ctrl + ,
 
 add without brackets because brackets already available
